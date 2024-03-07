@@ -14,12 +14,12 @@ const Sec3Ul = styled.li`
 const Li1 = styled.li`
     width:50%;
     height: 100%;
-    background: url('/assets//04.jpg') no-repeat center / cover; 
+    background: url('https://eunyyi.github.io/project.github.io/assets//04.jpg') no-repeat center / cover; 
 `
 const Li2 = styled.li`
     width:50%;
     height: 100%;
-    background: url('/assets//05.jpg') no-repeat center / cover; 
+    background: url('https://eunyyi.github.io/project.github.io/assets//05.jpg') no-repeat center / cover; 
 `
 export const EventCons = () => {
     return(

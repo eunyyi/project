@@ -31,7 +31,7 @@ const SnsUl = styled.ul`
 `
 const SnsLi1 = styled.li`
     width: 16.66666%;
-    background: url('/assets/sns/01.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/sns/01.jpg') no-repeat center / cover;
 
     &:hover {
         opacity:.8;
@@ -39,7 +39,7 @@ const SnsLi1 = styled.li`
 `;
 const SnsLi2 = styled.li`
     width: 16.66666%;
-    background: url('/assets/sns/02.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/sns/02.jpg') no-repeat center / cover;
 
     &:hover {
         opacity:.8;
@@ -47,7 +47,7 @@ const SnsLi2 = styled.li`
 `;
 const SnsLi3 = styled.li`
     width: 16.66666%;
-    background: url('/assets/sns/03.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/sns/03.jpg') no-repeat center / cover;
 
     &:hover {
         opacity:.8;
@@ -55,7 +55,7 @@ const SnsLi3 = styled.li`
 `;
 const SnsLi4 = styled.li`
     width: 16.66666%;
-    background: url('/assets/sns/04.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/sns/04.jpg') no-repeat center / cover;
 
     &:hover {
         opacity:.8;
@@ -63,7 +63,7 @@ const SnsLi4 = styled.li`
 `;
 const SnsLi5 = styled.li`
     width: 16.66666%;
-    background: url('/assets/sns/05.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/sns/05.jpg') no-repeat center / cover;
 
     &:hover {
         opacity:.8;
@@ -71,7 +71,7 @@ const SnsLi5 = styled.li`
 `;
 const SnsLi6 = styled.li`
     width: 16.66666%;
-    background: url('/assets/sns/06.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/sns/06.jpg') no-repeat center / cover;
 
     &:hover {
         opacity:.8;

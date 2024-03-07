@@ -72,7 +72,7 @@ const GnbA = styled.a`
 const Logo = styled.a`
     width: 124px;
     display: block;
-    background: url('assets/logo.png') no-repeat center / contain;
+    background: url('https://eunyyi.github.io/project.github.io/assets/logo.png') no-repeat center / contain;
     text-indent: -9999px;
     margin-left:-62px;
 `;

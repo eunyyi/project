@@ -35,73 +35,73 @@ const Sec2P = styled.p`
 const Th1 = styled.div`
     width: 429px;
     height: 595px;
-    background: url('/assets/best/th01.jpg') no-repeat center / cover;
+    background: url(' https://eunyyi.github.io/project.github.io/assets/best/th01.jpg') no-repeat center / cover;
 
     &:hover {
-        background: url('assets/best/th01-h.jpg') no-repeat center / cover;
+        background: url('https://eunyyi.github.io/project.github.io/assets/best/th01-h.jpg') no-repeat center / cover;
     }
 `;
 const Th2 = styled.div`
     width: 429px;
     height: 595px;
-    background: url('assets/best/th02.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/best/th02.jpg') no-repeat center / cover;
 
     &:hover {
-        background: url('assets/best/th02-h.jpg') no-repeat center / cover;
+        background: url('https://eunyyi.github.io/project.github.io/assets/best/th02-h.jpg') no-repeat center / cover;
     }
 `;
 const Th3 = styled.div`
     width: 429px;
     height: 595px;
-    background: url('assets/best/th03.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/best/th03.jpg') no-repeat center / cover;
 
     &:hover {
-        background: url('assets/best/th03-h.jpg') no-repeat center / cover;
+        background: url('https://eunyyi.github.io/project.github.io/assets/best/th03-h.jpg') no-repeat center / cover;
     }
 `;
 const Th4 = styled.div`
     width: 429px;
     height: 595px;
-    background: url('assets/best/th04.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/best/th04.jpg') no-repeat center / cover;
 
     &:hover {
-        background: url('assets/best/th04-h.jpg') no-repeat center / cover;
+        background: url('https://eunyyi.github.io/project.github.io/assets/best/th04-h.jpg') no-repeat center / cover;
     }
 `;
 const Th5 = styled.div`
     width: 429px;
     height: 595px;
-    background: url('assets/best/th05.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/best/th05.jpg') no-repeat center / cover;
 
     &:hover {
-        background: url('assets/best/th05-h.jpg') no-repeat center / cover;
+        background: url('https://eunyyi.github.io/project.github.io/assets/best/th05-h.jpg') no-repeat center / cover;
     }
 `;
 const Th6 = styled.div`
     width: 429px;
     height: 595px;
-    background: url('assets/best/th06.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/best/th06.jpg') no-repeat center / cover;
 
     &:hover {
-        background: url('assets/best/th06-h.jpg') no-repeat center / cover;
+        background: url('https://eunyyi.github.io/project.github.io/assets/best/th06-h.jpg') no-repeat center / cover;
     }
 `;
 const Th7 = styled.div`
     width: 429px;
     height: 595px;
-    background: url('assets/best/th07.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/best/th07.jpg') no-repeat center / cover;
 
     &:hover {
-        background: url('assets/best/th07-h.jpg') no-repeat center / cover;
+        background: url('https://eunyyi.github.io/project.github.io/assets/best/th07-h.jpg') no-repeat center / cover;
     }
 `;
 const Th8 = styled.div`
     width: 429px;
     height: 595px;
-    background: url('assets/best/th08.jpg') no-repeat center / cover;
+    background: url('https://eunyyi.github.io/project.github.io/assets/best/th08.jpg') no-repeat center / cover;
 
     &:hover {
-        background: url('assets/best/th08-h.jpg') no-repeat center / cover;
+        background: url('https://eunyyi.github.io/project.github.io/assets/best/th08-h.jpg') no-repeat center / cover;
     }
 `;
 
