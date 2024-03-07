@@ -1,24 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import { Route, Routes } from 'react-router-dom';
+import { MainPage } from './mainPage';
+import { ShopPage } from './shopPage';
+import { ShopDetailPage, shopDetailPage } from './shopDetailPage';
+import { CartPage } from './cartPage';
+import { LoginPage } from './login';
+import { useState } from 'react';
+import { JoinMembershipPage } from './joinmembership';
+import { AgreementPage } from './components/agreement';
+import {JoinSuccessPage} from './components/joinsuccess';
+
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Routes>
+        <Route Component={MainPage} path="/" />
+        <Route Component={ShopPage} path="/shop" />
+        <Route Component={ShopDetailPage} path="/detail/:id"/>
+        <Route Component={CartPage} path='/cart'/>
+        <Route Component={LoginPage} path='/login'/>
+        <Route Component={AgreementPage} path='/join_agreement'/>
+        <Route Component={JoinMembershipPage} path='/join_membership'/>
+        <Route Component={JoinSuccessPage} path='/join_success'/>
+     
+        
+      </Routes>
+    </>
   );
 }
 
