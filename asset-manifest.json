@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/project/static/css/main.9633d906.css",
+    "main.js": "/project/static/js/main.c0317584.js",
+    "static/media/03.jpg": "/project/static/media/03.7244db126ad7d936eed8.jpg",
+    "static/media/02.jpg": "/project/static/media/02.306b18b76c6da2b959d4.jpg",
+    "static/media/big.jpg": "/project/static/media/big.accb1c0e11378982ed89.jpg",
+    "static/media/01.jpg": "/project/static/media/01.91198ebf0c60c7467ada.jpg",
+    "static/media/reviewEvent.jpg": "/project/static/media/reviewEvent.193913bfb4e6e41dced4.jpg",
+    "static/media/coupon.jpeg": "/project/static/media/coupon.f2d287f75acf3b29193a.jpeg",
+    "static/media/point.png": "/project/static/media/point.f3945b736bdfb5d83966.png",
+    "static/media/snsInsta.svg": "/project/static/media/snsInsta.b08b74df7d20a280bf522f3d3cd20df7.svg",
+    "static/media/snsYoutube.svg": "/project/static/media/snsYoutube.438413aed0ab6906282793de4d6208df.svg",
+    "static/media/like.svg": "/project/static/media/like.74eeeff598536bbaabe4793854f6b300.svg",
+    "static/media/search.svg": "/project/static/media/search.53ec8efd2571be51a58a3cdc9049ef97.svg",
+    "static/media/down.svg": "/project/static/media/down.70e8aae0516d26e83df1b437fa390431.svg",
+    "static/media/cart.svg": "/project/static/media/cart.5d060113238b1f3ee16c06d8cac84c0e.svg",
+    "static/media/snsFace.svg": "/project/static/media/snsFace.9038313ddb2bf99a0d62717b36bf9a3d.svg",
+    "index.html": "/project/index.html",
+    "main.9633d906.css.map": "/project/static/css/main.9633d906.css.map",
+    "main.c0317584.js.map": "/project/static/js/main.c0317584.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9633d906.css",
+    "static/js/main.c0317584.js"
+  ]
+}
